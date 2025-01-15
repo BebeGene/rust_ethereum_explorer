@@ -22,3 +22,4 @@ This is a simple Ethereum block explorer built using Rust. The application fetch
 * cargo run
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_ethereum_explorer/blob/master/Screenshots/Eth_Explorer_Output.png)
