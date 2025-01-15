@@ -1,5 +1,4 @@
 // Fetches block data for last 5 transactions for ETH Mainnet using Infura
-
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::json;
